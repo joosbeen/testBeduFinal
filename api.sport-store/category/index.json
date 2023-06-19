@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"titulo": "Calzado",
+		"imagen": "https://media.istockphoto.com/id/893805254/es/vector/icono-plano-zapatos-para-correr-fitness-y-deporte-gimnasio-signo-vector-graphics-un-patr%C3%B3n.jpg?s=612x612&w=0&k=20&c=kuddZRf5ussPbSL4C_IavD5PgHnF8SBr1MYBwkXgvVE="
+	},
+	{
+		"id": 2,
+		"titulo": "Ropa",
+		"imagen": "https://cdn-icons-png.flaticon.com/512/1760/1760253.png"
+	},
+	{
+		"id": 3,
+		"titulo": "Calzado",
+		"imagen": "https://media.istockphoto.com/id/1406494194/es/vector/mujer-joven-en-bicicleta-est%C3%A1tica-en-el-gimnasio-del-club-deportivo-o-en-casa-entrenamiento.jpg?s=612x612&w=0&k=20&c=mQSa-RHuP2eiFpS9EEhEW4YUb6TFOB4_FzhW9qabPIw="
+	}
+]
